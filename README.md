@@ -4,3 +4,4 @@ wake.sb;
 read tgis 
 makes sends
 commut
+the cocubt
