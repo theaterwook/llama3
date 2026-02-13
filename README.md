@@ -5,3 +5,4 @@ read tgis
 makes sends
 commut
 the cocubt
+this should now be the path
